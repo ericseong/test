@@ -1,7 +1,15 @@
-Summary	1
--------	2
-A web browser for webOS Open Source Edition	3
-4
+# A web browser for webOS Open Source Edition
+***
+
+# Features
+***
+
+# Installation
+***
+
+# Usage
+***
+
 Description	5
 -----------	6
 This allows you to browse web pages and provides following features.	7
