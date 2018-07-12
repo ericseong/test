@@ -12,7 +12,13 @@ A web browser for webOS Open Source Edition. The browser is composed of two part
  * Some customized layout options
 
 # Installation
-FIXME! The aim of this section is to provide a necessary information to the 3rd party developer on how to build, how to install onto webOS OSE.
+FIXME! The aim of this section is to provide a necessary information to the 3rd party developer on how to build, how to install onto webOS OSE. It would be great if we could provide info. on how to set up development enviroment on desktop chrome.
 
 # Usage
-FIXME! The aim of this section is to provide the information on how to run the app on target device.
+FIXME! The aim of this section is to provide the information on how to run the app on target device. It would be nice to provide such information for the desktop env.
+
+# Author
+FIXME! author's email address
+- Mikyung
+- Alexey
+
