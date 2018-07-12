@@ -7,9 +7,9 @@ A web browser for webOS Open Source Edition. The browser is composed of two part
 * Most visited sites
 * Last closed sites
 * Preferences
-** Startup page selection
-** Search engine selection
-** Some customized layout options
+ * Startup page selection
+ * Search engine selection
+ * Some customized layout options
 
 # Installation
 FIXME! The aim of this section is to provide a necessary information to the 3rd party developer on how to build, how to install onto webOS OSE.
